@@ -12,7 +12,7 @@ Dataset ini disusun melalui proses:
 Dataset ini memperluas **InSet Lexicon**  
 [InSet Lexicon – GitHub Repository](https://github.com/fajri91/InSet).
 *Koto & Rahmaningtyas (2018)*  
-melalui penambahan **ratusan kata baru** yang relevan dalam domain kuliner di Kalimantan Selatan.
+melalui penambahan **kata baru** yang relevan dalam domain kuliner di Kalimantan Selatan.
 
 ---
 
