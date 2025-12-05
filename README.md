@@ -2,7 +2,7 @@
 
 Dataset ini merupakan kumpulan **kosakata sentimen (sentiment lexicon)** yang disusun untuk kebutuhan **analisis sentimen ulasan konsumen UMKM kuliner**. Dataset mencakup kata-kata dalam **Bahasa Indonesia** dan **Bahasa Banjar** yang ditemukan dalam komentar publik pada platform **Instagram** dan **TikTok**.
 
-Dataset ini disusun melalui proses:
+Dataset disusun melalui proses:
 - kompilasi dari berbagai sumber teks,
 - pembersihan dan normalisasi linguistik,
 - penghapusan duplikasi,
